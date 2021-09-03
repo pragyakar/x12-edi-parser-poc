@@ -1,0 +1,33 @@
+ISA*01*0000000000*01*0000000000*ZZ*ABCDEFGHIJKLMNO*ZZ*123456789012345*101127*1719*U*00400*000003438*0*P*>
+
+GS*ME*1234567890 *999999999 *20120126*1211*1*T*004010
+
+ST*277*0001
+
+BHT*0001*00*Reference Identification**1744480
+
+REF*01*Reference Identification*Description*01Reference Identification1Reference Identification1Reference Identification
+
+HL*1**1
+
+DMG*CC*Date Time Period*A***1
+
+NM1*01*1*Name Last or Organization Name**Name Middle*Name Prefi****01*01
+
+N4*City Name**POSTAL CODE*COU
+
+PER*1A*Name*AA*Communication Number*AA*Communication Number*AA*Communication Number*Contact Inquiry Refe
+
+TRN*1*Reference Identification
+
+STC*Industry CodeIndustry Code1**1*10548281732963524**20120314*****Industry CodeIndustry Code
+
+REF*01*Reference Identification**01Reference Identification\1Reference Identification
+
+DTP*001*CC*Date Time Period
+
+SE*13*0001
+
+GE*1*1
+
+IEA*1*000000632

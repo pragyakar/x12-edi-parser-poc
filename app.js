@@ -1,3 +1,3 @@
-const { customParser } = require('./parser/x12parser');
+const { x12parser } = require('./parser/x12parser');
 
-customParser('file/path');
+x12parser('./testFiles/test1.txt');
