@@ -1,4 +1,4 @@
-// This schema is copied from the example and might not be the schema for 277
+// This schema is copied from the example and might not be the schema for 277 
 
 const defaultSchema = {
     'start': 'ISA', // What segment starts the group
